@@ -1,0 +1,2 @@
+# GANCK
+Git config
